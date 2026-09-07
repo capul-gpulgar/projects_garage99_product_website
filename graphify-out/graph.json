@@ -4427,7 +4427,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "contexto-proyecto.md",
-      "source_location": "L23",
+      "source_location": "L24",
       "weight": 1.0
     },
     {
@@ -5072,5 +5072,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "f56f607d271e1582ca54ddb5174c56a793c3e820"
+  "built_at_commit": "217e2e4952f322bcf3932edee7205dcaf2765863"
 }

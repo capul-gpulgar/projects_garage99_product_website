@@ -20,4 +20,5 @@ alcance acotado antes de abrir el contexto largo.
 - Proyecto operativo: `bxhavpyvoijawzqiaspk` ([Dashboard](https://supabase.com/dashboard/project/bxhavpyvoijawzqiaspk)), con Session pooler `us-east-1` suministrado por el usuario. Nombre visible y plan no verificados; configuración local guardada sin contraseña PostgreSQL.
 - Estado: hito de arranque DB completado. Migración aplicada; SQL CRUD/rollback/RLS y REST reales en PASS. Dieciséis pruebas locales adicionales aprobadas. [Evidencia del arranque](docs/VALIDACION-DB-2026-09-05.md). Las migraciones del modelo operacional están aplicadas y validadas en desarrollo. [Evidencia del modelo](docs/VALIDACION-MODELO-DB-2026-09-06.md).
 - Proximo paso: cerrar la matriz ampliada de Fase 4 (concurrencia, RLS y reconciliacion) y luego iniciar la primera API de catalogo/pedidos.
+- Sincronizacion GitHub completada: el remoto objetivo es `https://github.com/capul-gpulgar/projects_garage99_product_website.git` y el commit `217e2e4` ya esta publicado en `main`.
 - Handoff para la próxima sesión: [docs/RETOMAR-PROXIMA-SESION.md](docs/RETOMAR-PROXIMA-SESION.md).

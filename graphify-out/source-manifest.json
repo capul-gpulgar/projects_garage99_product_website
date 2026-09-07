@@ -1,12 +1,12 @@
 {
-  "built_at_utc": "2026-09-06T22:53:24.281179+00:00",
+  "built_at_utc": "2026-09-07T00:09:19.835932+00:00",
   "graphify_version": "0.9.53",
   "sources": {
     ".gitignore": "66e409fbd8f73e61804b4d4a2637efd7c5b0eb52ef8387ac6d68ad21bcbc7fe0",
     ".graphifyignore": "b5dfa2e554e8cfc3aa03ec1fae3ca2ab63cb6b46767d42ec58a090e813635d6e",
     "AGENTS.md": "f5500b72acf026a5386f61f7919e3bdd7ca3a3b809ebe9815cc447b2ab77e3b7",
     "CONTEXT.md": "159dedf6f1c7bdaa8bc0149e808830c558b29d0bba09c3574caed12ba061c810",
-    "contexto-proyecto.md": "36dbb1fab088fe04bffe992fa4897c1a09e6591d9705d12338bdcb4a6980a822",
+    "contexto-proyecto.md": "d4ed903ec3aeb1a7287affa67e15496e823f70fdb0b9ca2a22d455ca57f4b1b7",
     "docs/ESTANDARES-DATOS.md": "c7cd00e968846c9ad7ba0a88153d9003ccb40c92d5315b9e1dde12192d2b767e",
     "docs/GRAFO-PROYECTO.md": "15dd37b6bc7d0504ecd712d279ba6c98fac5a745b11587e344fdbd33356fbc6c",
     "docs/graph-context.json": "04d5fc3acf39e092d6712907597be81b1273094d8c2f5db8aa6ec6fd8c96cf76",
@@ -15,7 +15,7 @@
     "docs/SUPABASE-ARRANQUE.md": "d6f77afdc816db27e68a53c4704418fb3e12d4fee055f676684849f58cc102f4",
     "docs/VALIDACION-DB-2026-09-05.md": "6d2642eeced05ccf858a1c0ab73dd0f771567335f81cef8e49bdc3d400dcc824",
     "docs/VALIDACION-MODELO-DB-2026-09-06.md": "1a16ee80b00de4066e6f30943ce0b5166b958548bef485a335d69742e89604e5",
-    "memory-general.md": "7cc3a9f8b2d13f186f06313a921a01d9406ca354ad9a13ab7518886018802102",
+    "memory-general.md": "2419418f3f58098a4a3cc9e5120e12c89cb7c15cfd18a1caef08b63eaf60e26a",
     "PLAN-IMPLEMENTACION.md": "015e22640a8063deea318d85f8450173348dd9e105055ce02ea9ff376e58b052",
     "README.md": "92e46b7210a87794ac3e2528f1148a7db38e1c7c24a97135cb0b5e280ec05ccb",
     "scripts/apply_garage99_migrations.py": "17a70b7d100951bab9d3129d08c24829ffd3f3454730b5139c1fc08eb5f3702f",

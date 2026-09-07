@@ -102,3 +102,10 @@
 - La siguiente sesion debe comenzar con Fase 4: concurrencia, RLS entre identidades, reconciliacion y escenarios de pago/devolucion; luego Fase 5: Route Handlers y contratos API.
 - Las decisiones de pasarela, despacho, boleta/factura, invitado/cuenta, identidad visual y volumen siguen pendientes antes de sus fases respectivas.
 - Grafo Graphify regenerado y `-Check` en estado CURRENT al cierre.
+
+## 2026-09-06 - Sincronizacion con GitHub
+
+- Se actualizo el remoto local al repositorio `capul-gpulgar/projects_garage99_product_website`.
+- El primer push fue rechazado porque la cuenta `gpulgar-ikea_FTC` solo tenia permiso de lectura.
+- Se autentico la cuenta correcta `capul-gpulgar`, con permiso de administrador, y se publico el commit `217e2e4` en `main`.
+- El arbol local y el remoto quedan sincronizados. No se incluyeron `.env.local`, `artifacts/` ni credenciales.
