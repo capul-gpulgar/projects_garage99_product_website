@@ -1,0 +1,307 @@
+{
+  "communities": {
+    "0": [
+      "context_cron_webhooks",
+      "context_despacho",
+      "context_document",
+      "context_documentacion_tributaria",
+      "context_garage99",
+      "context_inventory",
+      "context_inventory_movements",
+      "context_mercado_libre",
+      "context_nextjs",
+      "context_pasarela_pago",
+      "context_product_variants",
+      "context_products",
+      "context_route_handlers",
+      "context_stock_fuente_unica",
+      "context_supabase_auth",
+      "context_supabase_postgres",
+      "context_supabase_storage",
+      "context_transacciones_atomicas",
+      "context_vercel",
+      "contexto_proyecto_proximo_hito",
+      "plan_implementacion_catalogo_carrito_checkout",
+      "plan_implementacion_idempotencia",
+      "plan_implementacion_orders_order_items",
+      "plan_implementacion_panel_administracion",
+      "plan_implementacion_piloto",
+      "plan_implementacion_politica_reservas",
+      "plan_implementacion_politica_stock_canal",
+      "plan_implementacion_validacion_inventario"
+    ],
+    "1": [
+      "app_ensure_inventory_row",
+      "app_prevent_price_overlap",
+      "corpus_supabase_migrations_20260906000100_create_garage99_schema_sql",
+      "supabase_migrations_20260906000100_create_garage99_schema",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_adjust_inventory",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_confirm_order_sale",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_create_order",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_expire_reservations",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_receive_purchase",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_register_return",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_release_reservation",
+      "supabase_migrations_20260906000100_create_garage99_schema_api_reserve_order",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_auth_customer_id",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_customers",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_ensure_inventory_row",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_inventory_operations",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_inventory_reservations",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_is_staff",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_order_items",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_prevent_price_overlap",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_product_variants",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_sales_channels",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_staff_roles",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_touch_updated_at",
+      "supabase_migrations_20260906000100_create_garage99_schema_app_variant_prices",
+      "supabase_migrations_20260906000100_create_garage99_schema_product_variants_create_inventory",
+      "supabase_migrations_20260906000100_create_garage99_schema_variant_prices_no_overlap"
+    ],
+    "2": [
+      "agents_actualizacion_grafo",
+      "agents_capa_semantica",
+      "agents_document",
+      "agents_grafo_graphify",
+      "contexto_proyecto_document",
+      "corpus_docs_retomar_proxima_sesion_md",
+      "corpus_docs_validacion_modelo_db_2026_09_06_md",
+      "corpus_scripts_crear_items_demo_sql",
+      "corpus_scripts_update_projectgraph_ps1",
+      "corpus_scripts_validacion_modelo_db_sql",
+      "corpus_supabase_migrations_20260906000200_seed_garage99_demo_sql",
+      "docs_estandares_datos_document",
+      "docs_grafo_proyecto_document",
+      "docs_modelo_datos_document",
+      "memory_general_document",
+      "memory_general_protocolo_continuidad",
+      "plan_implementacion_document",
+      "readme_document",
+      "scripts_crear_items_demo",
+      "scripts_update_projectgraph",
+      "scripts_validacion_modelo_db",
+      "supabase_migrations_20260906000200_seed_garage99_demo"
+    ],
+    "3": [
+      "corpus_scripts_validacion_db_sql",
+      "corpus_supabase_migrations_20260905000100_connection_check_sql",
+      "docs_supabase_arranque_connection_check",
+      "docs_supabase_arranque_document",
+      "docs_supabase_arranque_rls_permisos",
+      "docs_validacion_db_2026_09_05_document",
+      "docs_validacion_db_2026_09_05_hito_arranque_db",
+      "docs_validacion_db_2026_09_05_rest_publico",
+      "docs_validacion_db_2026_09_05_session_pooler",
+      "docs_validacion_db_2026_09_05_sql_crud_rollback",
+      "docs_validacion_db_2026_09_05_suite_local",
+      "docs_validacion_db_2026_09_05_tls_verificado",
+      "plan_implementacion_historial_migraciones",
+      "scripts_validacion_db",
+      "supabase_migrations_20260905000100_connection_check",
+      "supabase_migrations_20260905000100_connection_check_public_connection_check"
+    ],
+    "4": [
+      "corpus_scripts_update_project_graph_py",
+      "path",
+      "scripts_update_project_graph",
+      "scripts_update_project_graph_fingerprint",
+      "scripts_update_project_graph_main",
+      "scripts_update_project_graph_normalized_semantics",
+      "scripts_update_project_graph_rationale_1",
+      "scripts_update_project_graph_read_json",
+      "scripts_update_project_graph_relative",
+      "scripts_update_project_graph_write_json"
+    ],
+    "5": [
+      "corpus_scripts_apply_garage99_migrations_py",
+      "exception",
+      "scripts_apply_garage99_migrations",
+      "scripts_apply_garage99_migrations_main",
+      "scripts_apply_garage99_migrations_rationale_1",
+      "scripts_apply_garage99_migrations_read_config",
+      "scripts_apply_garage99_migrations_sqlstate"
+    ],
+    "6": [
+      "corpus_tests_test_connectionvalidator_ps1",
+      "tests_test_connectionvalidator",
+      "tests_test_connectionvalidator_assert_throws",
+      "tests_test_connectionvalidator_assert_true",
+      "tests_test_connectionvalidator_invoke_garage99request",
+      "tests_test_connectionvalidator_set_testconfig",
+      "tests_test_connectionvalidator_test_case"
+    ],
+    "7": [
+      "corpus_scripts_test_supabaseconnection_ps1",
+      "scripts_test_supabaseconnection",
+      "scripts_test_supabaseconnection_get_garage99snapshot",
+      "scripts_test_supabaseconnection_invoke_garage99request",
+      "scripts_test_supabaseconnection_invoke_garage99validation",
+      "scripts_test_supabaseconnection_read_garage99config"
+    ],
+    "8": [
+      "corpus_scripts_validate_supabase_sql_py",
+      "scripts_validate_supabase_sql",
+      "scripts_validate_supabase_sql_main",
+      "scripts_validate_supabase_sql_rationale_1",
+      "scripts_validate_supabase_sql_read_config"
+    ]
+  },
+  "cohesion": {
+    "0": 0.13227513227513227,
+    "1": 0.13105413105413105,
+    "2": 0.3116883116883117,
+    "3": 0.225,
+    "4": 0.5777777777777777,
+    "5": 0.5714285714285714,
+    "6": 0.5714285714285714,
+    "7": 0.8,
+    "8": 0.8
+  },
+  "gods": [
+    {
+      "id": "context_document",
+      "label": "CONTEXT: contexto rector",
+      "degree": 30
+    },
+    {
+      "id": "plan_implementacion_document",
+      "label": "Plan de implementación",
+      "degree": 28
+    },
+    {
+      "id": "memory_general_document",
+      "label": "Memoria y protocolo permanente",
+      "degree": 24
+    },
+    {
+      "id": "readme_document",
+      "label": "README: entrada del repositorio",
+      "degree": 18
+    },
+    {
+      "id": "contexto_proyecto_document",
+      "label": "Contexto: índice de entrada",
+      "degree": 18
+    },
+    {
+      "id": "docs_validacion_db_2026_09_05_document",
+      "label": "Evidencia DB del 2026-09-05",
+      "degree": 15
+    },
+    {
+      "id": "docs_supabase_arranque_document",
+      "label": "Guía de arranque Supabase",
+      "degree": 13
+    },
+    {
+      "id": "agents_document",
+      "label": "AGENTS: continuidad de Garage99",
+      "degree": 11
+    },
+    {
+      "id": "supabase_migrations_20260906000100_create_garage99_schema_api_create_order",
+      "label": "api.create_order()",
+      "degree": 9
+    },
+    {
+      "id": "docs_modelo_datos_document",
+      "label": "Modelo de datos operacional",
+      "degree": 9
+    }
+  ],
+  "surprises": [
+    {
+      "source": "CONTEXT: contexto rector",
+      "target": "Modelo de datos operacional",
+      "source_files": [
+        "CONTEXT.md",
+        "docs/MODELO-DATOS.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "defines",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Modelo de datos operacional",
+      "target": "[PLAN] Próximo hito: catálogo e inventario",
+      "source_files": [
+        "docs/MODELO-DATOS.md",
+        "contexto-proyecto.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "defines_next_implementation",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Estándares de datos",
+      "target": "[PLAN] Operaciones atómicas de inventario",
+      "source_files": [
+        "docs/ESTANDARES-DATOS.md",
+        "CONTEXT.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "specifies",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Estándares de datos",
+      "target": "[PLAN] Idempotencia de operaciones",
+      "source_files": [
+        "docs/ESTANDARES-DATOS.md",
+        "PLAN-IMPLEMENTACION.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "specifies",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "CONTEXT: contexto rector",
+      "target": "Estándares de datos",
+      "source_files": [
+        "CONTEXT.md",
+        "docs/ESTANDARES-DATOS.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `CONTEXT: contexto rector` connect `[PLAN] Garage99` to `Grafo Graphify del proyecto`, `[VERIFICADO] Hito de arranque DB completo`?",
+      "why": "High betweenness centrality (0.021) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Memoria y protocolo permanente` connect `Grafo Graphify del proyecto` to `[PLAN] Garage99`, `[VERIFICADO] Hito de arranque DB completo`, `Apply Garage99 business migrations through the verified TLS pooler. The…`?",
+      "why": "High betweenness centrality (0.017) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Plan de implementación` connect `Grafo Graphify del proyecto` to `[PLAN] Garage99`, `[PLAN] supabase_migrations_20260906000100_create_garage99_schema_app_customers`, `[VERIFICADO] Hito de arranque DB completo`, `Apply Garage99 business migrations through the verified TLS pooler. The…`?",
+      "why": "High betweenness centrality (0.017) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Contexto: índice de entrada` (e.g. with `Estándares de datos` and `Modelo de datos operacional`) actually correct?",
+      "why": "`Contexto: índice de entrada` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `[PLAN] supabase_migrations_20260906000100_create_garage99_schema_app_staff_roles`, `[PLAN] supabase_migrations_20260906000100_create_garage99_schema_app_sales_channels`, `[PLAN] supabase_migrations_20260906000100_create_garage99_schema_app_product_variants` to the rest of the system?",
+      "why": "4 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `[PLAN] Garage99` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.13227513227513227 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `[PLAN] supabase_migrations_20260906000100_create_garage99_schema_app_customers` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.13105413105413105 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

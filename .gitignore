@@ -1,0 +1,29 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated local output
+artifacts/
+__pycache__/
+supabase/.temp/
+supabase/.branches/
+node_modules/
+.next/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+
+# Graphify machine-local caches and intermediate extraction (keep final graph).
+graphify-out/cache/
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+graphify-out/.graphify_ast.json
+graphify-out/.graphify_detect.json
+graphify-out/.graphify_extract.json
+graphify-out/.graphify_semantic*.json
+graphify-out/.graphify_chunk_*.json
+graphify-out/20??-??-??/

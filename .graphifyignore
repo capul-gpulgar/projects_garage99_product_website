@@ -1,0 +1,17 @@
+# Keep credentials, generated outputs and installed dependencies out of the graph.
+.env
+.env.*
+artifacts/
+.git/
+graphify-out/
+__pycache__/
+node_modules/
+.next/
+supabase/.temp/
+supabase/.branches/
+*.pem
+*.key
+*.crt
+*.cer
+# Curated semantic extraction is a build input, not a corpus document.
+docs/graph-context.json

@@ -1,0 +1,152 @@
+{
+  "scripts/Test-SupabaseConnection.ps1": {
+    "mtime": 1788622418.746678,
+    "seen": 1788665709.0170522,
+    "ast_hash": "d79e1676f3f88175c65a4fc30d439484",
+    "semantic_hash": "d79e1676f3f88175c65a4fc30d439484"
+  },
+  "scripts/Update-ProjectGraph.ps1": {
+    "mtime": 1788665565.3285036,
+    "seen": 1788665709.0170522,
+    "ast_hash": "d68a1605604d4b189e8e199e46b3b6ac",
+    "semantic_hash": "d68a1605604d4b189e8e199e46b3b6ac"
+  },
+  "scripts/update_project_graph.py": {
+    "mtime": 1788699506.5109303,
+    "seen": 1788699514.8559759,
+    "ast_hash": "29540ce2cc50d543c18be7ca9225dbb0",
+    "semantic_hash": "29540ce2cc50d543c18be7ca9225dbb0"
+  },
+  "scripts/validacion-db.sql": {
+    "mtime": 1788621143.4199686,
+    "seen": 1788665709.0170522,
+    "ast_hash": "87d1c19e710a52812c00754941607b2b",
+    "semantic_hash": "87d1c19e710a52812c00754941607b2b"
+  },
+  "scripts/validate_supabase_sql.py": {
+    "mtime": 1788622646.565891,
+    "seen": 1788665709.0170522,
+    "ast_hash": "71e671d5c82571019b07eb89dd87ab10",
+    "semantic_hash": "71e671d5c82571019b07eb89dd87ab10"
+  },
+  "supabase/migrations/20260905000100_connection_check.sql": {
+    "mtime": 1788621142.0572765,
+    "seen": 1788665709.0170522,
+    "ast_hash": "42e8f2c800ddd07e04a0bc44be0dd991",
+    "semantic_hash": "42e8f2c800ddd07e04a0bc44be0dd991"
+  },
+  "tests/Test-ConnectionValidator.ps1": {
+    "mtime": 1788622646.5620563,
+    "seen": 1788665709.0170522,
+    "ast_hash": "c2deab91ab94af564b4a16bd8ff640e0",
+    "semantic_hash": "c2deab91ab94af564b4a16bd8ff640e0"
+  },
+  "AGENTS.md": {
+    "mtime": 1788665342.0862195,
+    "seen": 1788665709.0170522,
+    "ast_hash": "0914b4c977f1435e320ceaee6023ed3e",
+    "semantic_hash": "0914b4c977f1435e320ceaee6023ed3e"
+  },
+  "CONTEXT.md": {
+    "mtime": 1788702562.0434997,
+    "seen": 1788702579.6229587,
+    "ast_hash": "3a362eaf3e7a1f9335280414ee8c9c1b",
+    "semantic_hash": "3a362eaf3e7a1f9335280414ee8c9c1b"
+  },
+  "PLAN-IMPLEMENTACION.md": {
+    "mtime": 1788702699.8731163,
+    "seen": 1788702707.1228092,
+    "ast_hash": "9a9f4f1e774f179ff0bec47a78f906e6",
+    "semantic_hash": "9a9f4f1e774f179ff0bec47a78f906e6"
+  },
+  "README.md": {
+    "mtime": 1788735203.0162573,
+    "seen": 1788735204.2807484,
+    "ast_hash": "cb9f45a974d6d64b358ab62ba56b2ab0",
+    "semantic_hash": "cb9f45a974d6d64b358ab62ba56b2ab0"
+  },
+  "contexto-proyecto.md": {
+    "mtime": 1788734999.2547147,
+    "seen": 1788735005.3782568,
+    "ast_hash": "9b0aba6ebb3d28c0e00a5478b8c71265",
+    "semantic_hash": "9b0aba6ebb3d28c0e00a5478b8c71265"
+  },
+  "docs/GRAFO-PROYECTO.md": {
+    "mtime": 1788665974.8340156,
+    "seen": 1788665977.663596,
+    "ast_hash": "f6b77063efb3995a96985a2443028f49",
+    "semantic_hash": "f6b77063efb3995a96985a2443028f49"
+  },
+  "docs/SUPABASE-ARRANQUE.md": {
+    "mtime": 1788622846.6841152,
+    "seen": 1788665709.0170522,
+    "ast_hash": "c8a5faa69f521c31dfd243baf6563262",
+    "semantic_hash": "c8a5faa69f521c31dfd243baf6563262"
+  },
+  "docs/VALIDACION-DB-2026-09-05.md": {
+    "mtime": 1788622781.2751625,
+    "seen": 1788665709.0170522,
+    "ast_hash": "01a01addf62cc59663fbc81689f5ab62",
+    "semantic_hash": "01a01addf62cc59663fbc81689f5ab62"
+  },
+  "memory-general.md": {
+    "mtime": 1788734999.2547147,
+    "seen": 1788735005.3782568,
+    "ast_hash": "ca3055db92f45aaae91bc8bfd3437d1f",
+    "semantic_hash": "ca3055db92f45aaae91bc8bfd3437d1f"
+  },
+  "docs/ESTANDARES-DATOS.md": {
+    "mtime": 1788702642.3956985,
+    "seen": 1788702663.8075745,
+    "ast_hash": "8200fa84e0d40bb21b31343925250877",
+    "semantic_hash": "8200fa84e0d40bb21b31343925250877"
+  },
+  "docs/MODELO-DATOS.md": {
+    "mtime": 1788702656.9645593,
+    "seen": 1788702663.8075745,
+    "ast_hash": "fdfa47ab9bf1cde69ee50e8325725a06",
+    "semantic_hash": "fdfa47ab9bf1cde69ee50e8325725a06"
+  },
+  "scripts/apply_garage99_migrations.py": {
+    "mtime": 1788668563.2464037,
+    "seen": 1788699514.8559759,
+    "ast_hash": "1e0278203d18cfe5480b0427a03f62d8",
+    "semantic_hash": "1e0278203d18cfe5480b0427a03f62d8"
+  },
+  "scripts/validacion-modelo-db.sql": {
+    "mtime": 1788668664.3718295,
+    "seen": 1788699514.8559759,
+    "ast_hash": "624050e5be1c687771c843de7a6959ef",
+    "semantic_hash": "624050e5be1c687771c843de7a6959ef"
+  },
+  "supabase/migrations/20260906000100_create_garage99_schema.sql": {
+    "mtime": 1788702280.493169,
+    "seen": 1788702579.6229587,
+    "ast_hash": "c71d394eaba9fabad4cf1308eee7cac7",
+    "semantic_hash": "c71d394eaba9fabad4cf1308eee7cac7"
+  },
+  "supabase/migrations/20260906000200_seed_garage99_demo.sql": {
+    "mtime": 1788668563.2457385,
+    "seen": 1788699514.8559759,
+    "ast_hash": "bb5a86179e5dfbc60d02b88d6fddd631",
+    "semantic_hash": "bb5a86179e5dfbc60d02b88d6fddd631"
+  },
+  "docs/VALIDACION-MODELO-DB-2026-09-06.md": {
+    "mtime": 1788702428.1654139,
+    "seen": 1788702579.6229587,
+    "ast_hash": "00b20161a93a89c7a8b7fc185c9a54e6",
+    "semantic_hash": "00b20161a93a89c7a8b7fc185c9a54e6"
+  },
+  "scripts/crear-items-demo.sql": {
+    "mtime": 1788733232.1107705,
+    "seen": 1788733280.1980772,
+    "ast_hash": "5a85c2c7de0b8f298bf7aaceb59963f5",
+    "semantic_hash": "5a85c2c7de0b8f298bf7aaceb59963f5"
+  },
+  "docs/RETOMAR-PROXIMA-SESION.md": {
+    "mtime": 1788734951.0085487,
+    "seen": 1788735005.3782568,
+    "ast_hash": "d1947c640810210d6e82c38badd575bc",
+    "semantic_hash": "d1947c640810210d6e82c38badd575bc"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "0": "[PLAN] Garage99",
+  "1": "[PLAN] supabase_migrations_20260906000100_create_garage99_schema_app_customers",
+  "2": "Grafo Graphify del proyecto",
+  "3": "[VERIFICADO] Hito de arranque DB completo",
+  "4": "Rebuild Garage99 with Graphify AST + reviewed semantic context; no external…",
+  "5": "Apply Garage99 business migrations through the verified TLS pooler. The…",
+  "6": "Pruebas del validador",
+  "7": "Validación REST",
+  "8": "Run the Garage99 synthetic SQL checks via the verified TLS session pooler.…"
+}
